@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4j0034_000.yaml, hash: 'sha256:5c9c26a0f7382ab15e16741763018bdad06d408083c33e5171338ab25e503b45'}
   - {seq: 1, filename: KR4j0034_001.yaml, hash: 'sha256:80694b1392bd2c1f3d6ad3a0d3009e07636b5aa5aa4baff40b9ab575ca8142c2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0034_000.markers.yaml, hash: 'sha256:4ed5637c2f4924952b7e0091f490f167ac916a05080857fe5df5ca010fbb3a4a'}
-  - {seq: 1, role: markers, filename: assets/KR4j0034_001.markers.yaml, hash: 'sha256:cc39d9c3600593bbd5169c489326cb6238c02340b27860c842438041f248f787'}
+  - {seq: 0, role: markers, filename: assets/KR4j0034_000.markers.yaml, hash: 'sha256:4067e1aa98c534a2a5739874ca1ebf7c1c6ef56bb77f2d848f99e40fb46bca6a'}
+  - {seq: 1, role: markers, filename: assets/KR4j0034_001.markers.yaml, hash: 'sha256:4ba5275c50c7a40749aa70d1437b28e185ec2bc248262b9fafea23b8aab41c96'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 海野詞
   type: section
   level: 1
-hash: sha256:1e34a308f220c56c4b8701f4f8b3d4d84bbfab459a40d56b767e608075ca873a
+hash: sha256:96c6fed88bcf21ced3da5fb52de118f05e6e79278a9e5932c432909d9393a7c2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
